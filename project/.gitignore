@@ -1,0 +1,7 @@
+.pytest_cache
+pymote_env/
+.vscode
+
+.ipynb_checkpoints/
+data/
+pymote_env/
