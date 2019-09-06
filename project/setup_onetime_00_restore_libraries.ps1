@@ -1,6 +1,4 @@
 
-cd $TB_ROOT
-
 # This powershell script sets up up a virtualenv for python libraries in this project
 # Run this once - when you first populate the project 
 # reference:  https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
