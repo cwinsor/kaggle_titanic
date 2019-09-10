@@ -12,4 +12,4 @@ if (-not (Test-Path "$TB_ROOT\pymote_env\Scripts\activate" -PathType Leaf)) {
 .\setup_everytime_00_activate_env.ps1
 .\setup_everytime_01_add_cwd_to_path.ps1
 .\setup_everytime_02_start_jupyter_notebook
-#.\scripts\setup_everytime_03_start_code.ps1
+#.\setup_everytime_03_start_code.ps1
