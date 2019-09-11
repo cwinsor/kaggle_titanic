@@ -1,4 +1,3 @@
-cd $TB_ROOT
 
 # activate the virtual environment
 # if the pymote_env does not exist - give user a good message
